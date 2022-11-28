@@ -62,6 +62,13 @@ Example: “The course runs synchronously over Zoom. It consists of three classe
 | 8      |                                  |                                                   |                     |            |
 | 9      |                                  |                                                   |                     |            |
 
+## Marking Scheme
+| Assessment       | Weight | Description               | Due Date                 |
+|------------------|--------|---------------------------|--------------------------|
+| [Assignment 1]() | XX%    | [Resources, purpose, etc] | Monday October 2, 9pm ET |
+| [Assignment 2]() | XX%    |                           |                          |
+| [Assignment 3]() | XX%    |                           |                          |
+
 ## Prerequisites
 Students are expected to...
 Remove section if none required
