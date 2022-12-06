@@ -6,8 +6,8 @@
 2. [Learning Outcomes]()
 3. [Logistics]()
 4. [Marking Scheme]()
-5. [Expectations]()
-6. [Course Policies]()
+5. [Prerequsites]()
+6. [Expections and Policies]()
 7. [Folder Structure]()
 8. [Acknowledgements and Contributions]()
 
