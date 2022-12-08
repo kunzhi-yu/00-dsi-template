@@ -6,13 +6,14 @@
 2. [Learning Outcomes]()
 3. [Logistics]()
 4. [Marking Scheme]()
-5. [Prerequsites]()
-6. [Expections and Policies]()
-7. [Folder Structure]()
-8. [Acknowledgements and Contributions]()
+5. [Expections and Policies]()
+6. [Folder Structure]()
+7. [Acknowledgements and Contributions]()
 
 ## Description:
 The workshop was created by the University of Toronto's Data Science Institute. This course is designed for those who have a degree in something other than Computer Science/Statistics who are looking to enhance their data science skills for their career.
+
+[Explain possible prerequsites. Students are expected to...]
 
 [What is the purpose of this course?]
 
@@ -50,17 +51,20 @@ Example: “The course runs synchronously over Zoom. It consists of three classe
 * Google collab etc.
 
 ### Lecture Schedule
+
+[Could add other links such as live code]
+
 | Lesson | Time                             | Topic                                             | Related Assessments | Resources  |
 |--------|----------------------------------|---------------------------------------------------|---------------------|------------|
-| 1      | Monday November 28<br>6pm - 8pm  | Topic Name <br>(details go here)                  | [Assignment 1]()    | [Slides]() |
-| 2      | Thursday December 1<br>6pm - 8pm | Unix Shell II<br>(input/output and pipes/filters) | [Assignment 1]()    | [Slides]() |
-| 3      |                                  |                                                   |                     |            |
-| 4      |                                  |                                                   |                     |            |
-| 5      |                                  |                                                   |                     |            |
-| 6      |                                  |                                                   |                     |            |
-| 7      |                                  |                                                   |                     |            |
-| 8      |                                  |                                                   |                     |            |
-| 9      |                                  |                                                   |                     |            |
+| 1      | Day Month Date<br>Time ET        | Topic Name <br>(details go here)                  | [Assignment X]()    | [Slides]() |
+| 2      | Thursday December 1<br>6pm - 8pm | Unix Shell II<br>(input/output and pipes/filters) | [Assignment X]()    | [Slides]() |
+| 3      |                                  |                                                   | [Assignment X]()    | [Slides]() |
+| 4      |                                  |                                                   | [Assignment X]()    | [Slides]() |
+| 5      |                                  |                                                   | [Assignment X]()    | [Slides]() |
+| 6      |                                  |                                                   | [Assignment X]()    | [Slides]() |
+| 7      |                                  |                                                   | [Assignment X]()    | [Slides]() |
+| 8      |                                  |                                                   | [Assignment X]()    | [Slides]() |
+| 9      |                                  |                                                   | [Assignment X]()    | [Slides]() |
 
 ## Marking Scheme
 | Assessment       | Weight | Description               | Due Date                 |
@@ -68,10 +72,6 @@ Example: “The course runs synchronously over Zoom. It consists of three classe
 | [Assignment 1]() | XX%    | [Resources, purpose, etc] | Monday October 2, 9pm ET |
 | [Assignment 2]() | XX%    |                           |                          |
 | [Assignment 3]() | XX%    |                           |                          |
-
-## Prerequisites
-Students are expected to...
-Remove section if none required
 
 ## Expections and Policies
 * The course is a live-coding class. Learners are expected to follow along with the coding in their own Python notebooks. Learners should be active participants while coding and are encouraged to ask questions throughout. 
@@ -102,4 +102,3 @@ Below are the folders contained in this repo with a description of what they con
 * People who helped make the course
 * Land acknowledgement
 * Submit issues using GitHub issues
-
