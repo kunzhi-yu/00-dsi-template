@@ -83,13 +83,20 @@ Remove section if none required
 ## Folder Structure
 Below are the folders contained in this repo with a description of what they contain and information on how to use them.
 
-* [*01-slides*](): description
-* [*02-html-slides*](): description
-* [*03-pdf-slides*](): description
-* [*04-homework*](): description
-* [*05-assignments*](): description
-* [*06-live-code*](): could rename to lecture resources, description
-* [*07-resources*](): description
+* [*01-slides*]()
+   * description
+* [*02-html-slides*]()
+  * description
+* [*03-pdf-slides*]()
+  * description
+* [*04-homework*]()
+  * description
+* [*05-assignments*]()
+  * description
+* [*06-live-code*]()
+  * could rename to lecture resources, description
+* [*07-resources*]()
+  * description
 
 ## Acknowledgements and Contributions
 * People who helped make the course
